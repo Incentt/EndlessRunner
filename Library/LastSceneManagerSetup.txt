@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/incent/Desktop/Gameclub/TutorGaDigaji2D/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
